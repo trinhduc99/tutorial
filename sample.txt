@@ -1,1 +1,4 @@
 duc dep zai qua ddi Đến cả con khỉ cũng hiểu được lệnh Git
+Đến cả con khỉ cũng hiểu được lệnh Git
+add: Đăng ký thay đổi trong index
+commit: Lưu lại trạng thái của index
